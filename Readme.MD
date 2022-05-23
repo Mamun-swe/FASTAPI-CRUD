@@ -4,7 +4,6 @@ https://www.programiz.com/python-programming/inheritance
 
 ### Start app
 
-````{
+```sh
 uvicorn main:app --reload
-
-
+```
